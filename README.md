@@ -16,3 +16,4 @@ GRIDS works by the following these steps:
 2. We rank each of the feature categories based on the driver's prior historical data as well as the current driving data in new city. This is done based on the statistical computation of L2 norm between the quartiles of the computed feature of indivisual category. The code is available in rank feature.py.
 3. We train the individual feature model over Random Forest. Based on the Explainable AI, i.e the feature importance and the SHAP (Shapely Additive values), we chose the features which are required for the recommendation. (codebase Random forest.py and Explainable AI.py)
 4. Finally, we utilise the rules available over web (web rules) and the nlp technique of tf-idf to generate rules for recommendation to people (codebase in nlp rule generation).
+
