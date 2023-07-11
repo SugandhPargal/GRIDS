@@ -31,10 +31,13 @@ pip install -r requirements.txt
 ```
 We have provided a sample subset of our dataset in the sample data directory which consists of extracted features from different driving profiles.
 
-Run randomforest.py to develop individual models for each profile of the driver based on his past city and present city and explainableAI.pynb to check the SHAP values and feature importance scores of the derived features.
+Run randomforest.py to develop individual models for each profile of the driver based on his past city and present city and ExplainableAI.pynb to check the SHAP values and feature importance scores of the derived features.
 
-Rank the category of features in order of relevance to the driver, run rank features.py.
-Finally, using the keywords of each feature from the feature category and the contextual verb from the web rules, generate rules from the existing rules using nlp. For this, run file
+Rank the category of features in order of relevance to the driver, run rank_features.py.
+
+Finally, using the keywords of each feature from the feature category and the contextual verb from the web rules, generate rules from the existing rules using nlp. For this, run file nlp_rule_generation.py.
+
+To make a better representation for human interpretation, GRIDS generate funnel chart from recommending_guidelines.py.
 
 
 ```
