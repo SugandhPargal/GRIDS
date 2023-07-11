@@ -18,6 +18,14 @@ GRIDS works by the following these steps:
 3. We train the individual feature model over Random Forest. Based on the Explainable AI, i.e the feature importance and the SHAP (Shapely Additive values), we chose the features which are required for the recommendation. (codebase Random forest.py and Explainable AI.py)
 4. Finally, we utilise the rules available over web (web rules) and the nlp technique of tf-idf to generate rules for recommendation to people (codebase in nlp rule generation).
 
+## Installation
+
+For installation, use the following command.
+
+```
+git clone https://github.com/SUGANDHPARGAL/GRIDS.git
+pip install -r requirements.txt
+```
 ## Bibliography
 ```
  @inproceedings{spargal2023GRIDS,
