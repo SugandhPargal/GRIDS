@@ -19,11 +19,11 @@ GRIDS works by the following these steps:
 4. Finally, we utilise the rules available over web (web rules) and the nlp technique of tf-idf to generate rules for recommendation to people (codebase in nlp rule generation).
 
 ## Bibliography
-''' @inproceedings{spargal2023GRIDS,
+``` @inproceedings{spargal2023GRIDS,
   title={GRIDS: Personalized Guideline Recommendations while Driving Through a New City},
   author={Pargal, Sugandh and Das, Debasree and Sahoo, Bikash and Mitra, Bivas and Chakraborty, Sandip},
   booktitle={ACM TORS},
   year={2023}
-}
-'''
+}'''
+
 
