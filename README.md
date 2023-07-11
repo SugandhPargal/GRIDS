@@ -50,10 +50,10 @@ To make a better representation for human interpretation, GRIDS generate funnel 
   year={2023}
 }
 ```
-## COPYRIGHT
+## Copyright
 Copyright (c) 2023 SugandhPargal
 
-## LICENSE
+## License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -64,8 +64,7 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-## DISCLAIMER
-
+## Disclaimers
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
