@@ -42,6 +42,7 @@ To make a better representation for human interpretation, GRIDS generate funnel 
 
 
 ## Bibliography
+To refer GRIDS framework or the dataset, please cite the following work.
 ```
  @inproceedings{spargal2023GRIDS,
   title={GRIDS: Personalized Guideline Recommendations while Driving Through a New City},
