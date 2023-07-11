@@ -1,5 +1,6 @@
-# GRIDS
- Personalized Guideline Recommendations while Driving Through a New City
+# GRIDS: Personalized Guideline Recommendations while Driving Through a New City
+
+Sugandh Pargal, Debasree Das, Bikash Sahoo, Bivas Mitra, Sandip Chakraborty: "GRIDS: Personalized Guideline Recommendations while Driving Through a New City", ACM Transaction on Recommender Systems 2023
 
 GRIDS captures data from vehicle-mounted smart devices, like a dashcam with embedded sensors (IMU and GPS), which are common in today’s vehicles, and processes the data over the driver’s smartphone. The driving environments in different cities are crowdsourced using similar modalities. 
 
